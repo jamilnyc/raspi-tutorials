@@ -23,6 +23,7 @@ def print_instructions():
     print('Directions:')
     print('* Enter player names')
     print('* Press your button when it lights up')
+    print('* To end the game, hit CTRL+C')
     print('######################################')
 
 def print_hits(name, points):
